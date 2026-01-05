@@ -1,0 +1,8 @@
+{
+  "name": "Target Shopping Assistant",
+  "tagline": "Search and find products on Target.com",
+  "example": "Find wireless headphones under $100 on Target",
+  "buttonText": "Search",
+  "workingText": "Searching...",
+  "statusText": "Target Shopping Assistant is working..."
+}
